@@ -1,5 +1,5 @@
 ﻿# AdminList - VDSzone
 
-CS2 Admin Listesi eklentisi
+ **This plugin is specifically built for VDSzone and will not work on other systems.**
 
-İndirmek için [Releases](https://github.com/candaysa/AdminList-VDSzone/releases) sekmesine gidin.
+Download from [Releases](https://github.com/candaysa/AdminList-VDSzone/releases) section.
